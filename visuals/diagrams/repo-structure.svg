@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1600" height="860" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1600 860" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1600" height="860"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-860)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="1600" height="860" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="55" y="786.0" style="font-family: Arial-Bold; font-size: 39px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1572) scale(1,-1)">Repository structure for the finished site</text>
+			<text x="55" y="741.0" style="font-family: Arial; font-size: 25px;fill: rgb(27%,33%,41%); stroke:none;" transform="translate(0,1482) scale(1,-1)">A teaching diagram of the file tree, rather than a screenshot of the GitHub interface.</text>
+			<rect x="65" y="65" width="680" height="620" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="89" y="634.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1268) scale(1,-1)">devfoundry-portfolio/</text>
+			<text x="89" y="590.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1180) scale(1,-1)">index.html</text>
+			<text x="89" y="554.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1108) scale(1,-1)">style.css</text>
+			<text x="89" y="518.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1036) scale(1,-1)">script.js</text>
+			<text x="89" y="482.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,964) scale(1,-1)">assets/</text>
+			<text x="89" y="446.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,892) scale(1,-1)">    workspace.svg</text>
+			<text x="89" y="410.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,820) scale(1,-1)">    project-1.svg</text>
+			<text x="89" y="374.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,748) scale(1,-1)">    project-2.svg</text>
+			<text x="89" y="338.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,676) scale(1,-1)">    project-3.svg</text>
+			<text x="89" y="302.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,604) scale(1,-1)">README.md</text>
+			<text x="89" y="266.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,532) scale(1,-1)">.gitignore</text>
+			<rect x="830" y="465" width="705" height="205" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(85%,91%,99%); fill-rule: evenodd;"/>
+			<text x="854" y="619.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1238) scale(1,-1)">Publish this folder</text>
+			<text x="854" y="575.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1150) scale(1,-1)">Keep index.html at the selected root.</text>
+			<text x="854" y="539.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1078) scale(1,-1)">Use main and / (root) in Pages.</text>
+			<rect x="830" y="180" width="705" height="245" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="854" y="374.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,748) scale(1,-1)">Keep the course bundle separate</text>
+			<text x="854" y="330.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,660) scale(1,-1)">Do not upload the entire course ZIP.</text>
+			<text x="854" y="294.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,588) scale(1,-1)">.git is local history managed by Git;</text>
+			<text x="854" y="258.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,516) scale(1,-1)">it is not a folder to upload manually.</text>
+		</g>
+	</g>
+</svg>

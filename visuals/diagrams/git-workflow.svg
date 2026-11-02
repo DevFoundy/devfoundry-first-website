@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1600" height="760" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1600 760" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1600" height="760"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-760)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="1600" height="760" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="55" y="686.0" style="font-family: Arial-Bold; font-size: 39px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1372) scale(1,-1)">Git history is local before you push</text>
+			<text x="55" y="641.0" style="font-family: Arial; font-size: 25px;fill: rgb(27%,33%,41%); stroke:none;" transform="translate(0,1282) scale(1,-1)">Saving a file, committing and deploying are separate actions.</text>
+			<rect x="45" y="315" width="340" height="210" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="69" y="474.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,948) scale(1,-1)">Working tree</text>
+			<text x="69" y="430.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,860) scale(1,-1)">Edit files</text>
+			<path d="M 387,420 L 430,420 Z" style="stroke: rgb(11%,30%,84%); stroke-linecap: butt; stroke-width: 5;"/>
+			<polygon points="430 420, 416 429, 416 411" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,30%,84%); fill-rule: evenodd;"/>
+			<rect x="435" y="315" width="340" height="210" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="459" y="474.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,948) scale(1,-1)">Staging area</text>
+			<text x="459" y="430.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,860) scale(1,-1)">Choose changes</text>
+			<path d="M 777,420 L 820,420 Z" style="stroke: rgb(11%,30%,84%); stroke-linecap: butt; stroke-width: 5;"/>
+			<polygon points="820 420, 806 429, 806 411" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,30%,84%); fill-rule: evenodd;"/>
+			<rect x="825" y="315" width="340" height="210" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="849" y="474.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,948) scale(1,-1)">Local commits</text>
+			<text x="849" y="430.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,860) scale(1,-1)">Save history</text>
+			<path d="M 1167,420 L 1210,420 Z" style="stroke: rgb(11%,30%,84%); stroke-linecap: butt; stroke-width: 5;"/>
+			<polygon points="1210 420, 1196 429, 1196 411" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,30%,84%); fill-rule: evenodd;"/>
+			<rect x="1215" y="315" width="340" height="210" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1239" y="474.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,948) scale(1,-1)">GitHub remote</text>
+			<text x="1239" y="430.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,860) scale(1,-1)">Share commits</text>
+			<text x="285" y="240.0" style="font-family: Arial-Bold; font-size: 25px;fill: rgb(11%,30%,84%); stroke:none;" transform="translate(0,480) scale(1,-1)">git add</text>
+			<text x="675" y="240.0" style="font-family: Arial-Bold; font-size: 25px;fill: rgb(11%,30%,84%); stroke:none;" transform="translate(0,480) scale(1,-1)">git commit</text>
+			<text x="1065" y="240.0" style="font-family: Arial-Bold; font-size: 25px;fill: rgb(11%,30%,84%); stroke:none;" transform="translate(0,480) scale(1,-1)">git push</text>
+			<rect x="160" y="60" width="1270" height="125" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(85%,91%,99%); fill-rule: evenodd;"/>
+			<text x="184" y="134.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,268) scale(1,-1)">Inspect before saving</text>
+			<text x="184" y="90.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,180) scale(1,-1)">git status   |   git diff   |   git diff --cached</text>
+		</g>
+	</g>
+</svg>

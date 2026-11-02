@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1600" height="900" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1600" height="900"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-900)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="1600" height="900" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="55" y="826.0" style="font-family: Arial-Bold; font-size: 39px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1652) scale(1,-1)">HTML landmarks and nesting</text>
+			<text x="55" y="781.0" style="font-family: Arial; font-size: 25px;fill: rgb(27%,33%,41%); stroke:none;" transform="translate(0,1562) scale(1,-1)">Semantic elements describe the purpose of each region.</text>
+			<rect x="65" y="585" width="615" height="155" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="89" y="689.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1378) scale(1,-1)">header</text>
+			<text x="89" y="645.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1290) scale(1,-1)">nav: brand, section links, controls</text>
+			<rect x="65" y="195" width="615" height="365" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="89" y="509.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1018) scale(1,-1)">main</text>
+			<text x="89" y="465.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,930) scale(1,-1)">section #home    h1 introduction</text>
+			<text x="89" y="429.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,858) scale(1,-1)">section #about   h2 about</text>
+			<text x="89" y="393.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,786) scale(1,-1)">section #skills  h2 skills</text>
+			<text x="89" y="357.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,714) scale(1,-1)">section #projects  h2 + articles</text>
+			<text x="89" y="321.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,642) scale(1,-1)">section #contact  h2 contact</text>
+			<rect x="65" y="55" width="615" height="115" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="89" y="119.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,238) scale(1,-1)">footer</text>
+			<text x="89" y="75.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,150) scale(1,-1)">Name and back-to-top link</text>
+			<rect x="790" y="230" width="745" height="470" rx="18" ry="18" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 2; fill: rgb(85%,91%,99%); fill-rule: evenodd;"/>
+			<text x="814" y="649.0" style="font-family: Arial-Bold; font-size: 29px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1298) scale(1,-1)">Inside a project article</text>
+			<text x="814" y="605.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1210) scale(1,-1)">img   meaningful preview + alt text</text>
+			<text x="814" y="569.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1138) scale(1,-1)">h3    project title</text>
+			<text x="814" y="533.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,1066) scale(1,-1)">p     honest description</text>
+			<text x="814" y="497.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,994) scale(1,-1)">a     real destination when available</text>
+			<text x="814" y="461.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,922) scale(1,-1)"></text>
+			<text x="814" y="425.0" style="font-family: Arial; font-size: 25px;fill: rgb(9%,12%,20%); stroke:none;" transform="translate(0,850) scale(1,-1)">Use div for neutral layout wrappers.</text>
+			<path d="M 685,380 L 785,470 Z" style="stroke: rgb(11%,30%,84%); stroke-linecap: butt; stroke-width: 5;"/>
+			<polygon points="785 470, 771 479, 771 461" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,30%,84%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

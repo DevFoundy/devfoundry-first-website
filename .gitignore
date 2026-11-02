@@ -1,0 +1,11 @@
+# Operating-system clutter
+.DS_Store
+Thumbs.db
+# Local editor preferences
+.vscode/
+.idea/
+# Never include private local configuration
+.env
+.env.*
+# Local review output, not course content
+.review/
